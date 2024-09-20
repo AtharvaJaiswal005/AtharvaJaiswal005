@@ -1,25 +1,20 @@
+[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://github.com/atharvajaiswal005)
 <h1 align="center">Hi 👋, I'm Atharva Jaiswal</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=atharvajaiswal005&label=Profile%20views&color=0e75b6&style=flat" alt="atharvajaiswal005" />
 </p>
 
-- 🌱 I’m currently pursuing **B.Tech in Data Science and Engineering** from Manipal University Jaipur (CGPA: 7.10)
-- 💼 Seeking opportunities in **Machine Learning**, **Data Science**, and **Software Development**.
-- ⚡ Fun fact: I created a **Bus Seat Booking Web Application** using Laravel and **Genuine Eye**, a real vs. fake image classifier using CNN.
+- 🔭 I’m currently working on **Bus Seat Booking Web Application**
+- 🌱 I’m currently learning **Advanced Data Science & AI**
+- 👨‍💻 My portfolio website [atharva.io](https://atharva.io)
+- 💬 Ask me about **Machine Learning, Python, Data Analysis**
+- 📫 How to reach me **atharvapj5@gmail.com**
+- ⚡ Fun fact **I love solving puzzles and coding challenges**
 
-### Projects
-- **[Bus Seat Booking Web Application](#)**: A comprehensive seat booking platform with user authentication, email verification, seat selection, and fare management, using Laravel, PHP, and Google Charts API.
-- **[Genuine Eye](#)**: An image classifier designed to distinguish real vs. fake images using a convolutional neural network (CNN) on a dataset of 120,000 images.
-- **[Lyralei ヅ Discord Bot](#)**: A fun Python bot that manages birthdays, quotes, and random selections in Discord, deployed with 24/7 uptime using Uptime Robot.
-
-### Skills
-- **Programming Languages**: Python, SQL
-- **Tools & Frameworks**: Flask, TensorFlow, Pandas, Scikit-Learn, PostgreSQL, MySQL, Git
-- **Data Science Skills**: Machine Learning, Data Analysis, Neural Networks, Data Preprocessing
-
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/atharva-jaiswal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-jaiswal" height="30" width="40" />
@@ -35,8 +30,8 @@
   </a>
 </p>
 
-### Languages and Tools:
-<p align="left"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
@@ -69,10 +64,10 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvajaiswal005&show_icons=true&locale=en&layout=compact" alt="atharvajaiswal005" />
-</p>
+[![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=atharvajaiswal005&theme=xcode)](https://github.com/atharvajaiswal005)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvajaiswal005&" alt="atharvajaiswal005" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvajaiswal005&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atharvajaiswal005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvajaiswal005&show_icons=true&locale=en&theme=tokyonight" alt="atharvajaiswal005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvajaiswal005&&theme=tokyonight" alt="atharvajaiswal005" /></p>
