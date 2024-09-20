@@ -7,12 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=atharvajaiswal005&label=Profile%20views&color=0e75b6&style=flat" alt="atharvajaiswal005" />
 </p>
 
-- 🔭 I’m currently working on **Bus Seat Booking Web Application**
-- 🌱 I’m currently learning **Advanced Data Science & AI**
-- 👨‍💻 My portfolio website [atharva.io](https://atharva.io)
-- 💬 Ask me about **Machine Learning, Python, Data Analysis**
-- 📫 How to reach me **atharvapj5@gmail.com**
-- ⚡ Fun fact **I love solving puzzles and coding challenges**
+- 🎓 I’m currently pursuing **B.Tech in Data Science and Engineering** at Manipal University Jaipur (CGPA: 7.10).
+- 🔭 I’ve worked on **Genuine Eye**: A real vs. fake image classifier using CNN with advanced data preprocessing techniques.
+- 💼 I developed **Bus Seat Booking Web Application**: A platform with user authentication, admin functionalities, and real-time fare calculations using Laravel and Google Charts API.
+- 📊 I'm skilled in **Machine Learning**, **Data Analytics** with Python, Pandas, Scikit-learn, and **SQL**.
+- 🛠 I have experience with tools like **Flask**, **TensorFlow**, **PostgreSQL**, and **OpenCV**.
+
+### Projects
+- **[Genuine Eye](#)**: Real & fake image classifier using CNN with a dataset of 120,000 images.
+- **[Bus Seat Booking Web Application](#)**: Laravel-based seat booking system with user and admin functionalities.
+- **[Lyralei ヅ Discord Bot](#)**: A Python bot for fun server management and random selections deployed with 24/7 uptime.
+
+### Skills
+- **Programming Languages**: Python, SQL
+- **Data Science**: Machine Learning, Neural Networks, Data Preprocessing, Data Analysis
+- **Web Development**: HTML, CSS, Tailwind, Bootstrap, Flask, PHP, Laravel
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, TensorFlow, Scikit-Learn, Pandas, Seaborn, OpenCV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
