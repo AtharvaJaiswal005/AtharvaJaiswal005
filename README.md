@@ -6,14 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=atharvajaiswal005&label=Profile%20views&color=0e75b6&style=flat" alt="atharvajaiswal005" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h3>Profile Summary</h3>
-      <p>Enthusiastic B.Tech Data Science student with a strong foundation in machine learning, data analysis, and software development. Experienced in optimizing neural networks and creating web applications. Passionate about applying cutting-edge AI techniques to solve real-world problems. Seeking opportunities to expand and apply technical skills in professional settings.</p>
-    </td>
-  </tr>
-</table>
+### Profile Summary
+Enthusiastic B.Tech Data Science student with a strong foundation in **machine learning**, **data analysis**, and **software development**. Experienced in optimizing neural networks and creating web applications. Passionate about applying cutting-edge AI techniques to solve real-world problems. Seeking opportunities to expand and apply technical skills in professional settings.
 
 ### Skills
 - **Programming Languages**: Python, SQL
@@ -23,9 +17,27 @@
 - **Tools**: Git, TensorFlow, Scikit-Learn, Pandas, Seaborn, OpenCV
 
 ### Projects
-- **[Genuine Eye](#)**: A real vs. fake image classifier using CNN with a dataset of 120,000 images.
-- **[Bus Seat Booking Web Application](#)**: Laravel-based seat booking system with user authentication and admin functionalities.
-- **[Lyralei ヅ Discord Bot](#)**: A Python bot for fun server management and random selections, deployed with 24/7 uptime.
+
+1. **Genuine Eye - Real & Fake Image Classifier** (2024):  
+   Created a convolutional neural network (CNN) to classify real vs. fake images using a dataset of 120,000 images.  
+   - Utilized advanced data preprocessing, including image upscaling and dataset handling, for improved learning.
+   - Achieved high precision, recall, and accuracy using metrics like binary cross-entropy loss.
+
+2. **Lyralei ヅ Discord Bot** (2023):  
+   Created a feature-rich Discord bot in Python using discord.py, enhancing server engagement through fun commands and API integrations.  
+   - Incorporated GIFs and dynamic content generation.
+   - Deployed with 24/7 uptime using Uptime Robot, with an accompanying website hosted on webhost.com.
+
+3. **Jaiswal Bus Services - Bus Seat Booking Web Application** (2020-2022):  
+   Developed a comprehensive seat booking platform with features like user authentication, email verification, seat selection, and fare management.  
+   - Implemented admin functionalities for managing buses, routes, cities, and fare charts.
+   - Used Laravel, PHP, and Google Charts API for dynamic sales graphs and fare calculations.
+   - Employed migrations, seeders, Eloquent models, and responsive design techniques.
+
+4. **Hydra Management System** (2020-2022):  
+   Developed an offline gym management system using MS Access, featuring complex queries, VBA automation, and robust security.  
+   - Designed interfaces for managing subscriptions, BMI, and weight reports.
+   - Automated backup processes and created an intuitive interface for non-technical users.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
