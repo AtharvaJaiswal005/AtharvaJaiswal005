@@ -3,10 +3,6 @@
 <h3 align="center">B.Tech Student | Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=atharvajaiswal005&label=Profile%20views&color=0e75b6&style=flat" alt="atharvajaiswal005" />
-</p>
-
 ### Profile Summary
 Enthusiastic B.Tech Data Science student with a strong foundation in **machine learning**, **data analysis**, and **software development**. Experienced in optimizing neural networks and creating web applications. Passionate about applying cutting-edge AI techniques to solve real-world problems. Seeking opportunities to expand and apply technical skills in professional settings.
 
