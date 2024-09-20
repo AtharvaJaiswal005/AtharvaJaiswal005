@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://github.com/atharvajaiswal005)
+[![Banner](https://github.com/user-attachments/assets/73658109-e7e9-4a59-8f8e-446a44aa68d0)](https://github.com/atharvajaiswal005)
 <h1 align="center">Hi 👋, I'm Atharva Jaiswal</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,16 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=atharvajaiswal005&label=Profile%20views&color=0e75b6&style=flat" alt="atharvajaiswal005" />
 </p>
 
-- 🎓 I’m currently pursuing **B.Tech in Data Science and Engineering** at Manipal University Jaipur (CGPA: 7.10).
-- 🔭 I’ve worked on **Genuine Eye**: A real vs. fake image classifier using CNN with advanced data preprocessing techniques.
-- 💼 I developed **Bus Seat Booking Web Application**: A platform with user authentication, admin functionalities, and real-time fare calculations using Laravel and Google Charts API.
-- 📊 I'm skilled in **Machine Learning**, **Data Analytics** with Python, Pandas, Scikit-learn, and **SQL**.
-- 🛠 I have experience with tools like **Flask**, **TensorFlow**, **PostgreSQL**, and **OpenCV**.
-
-### Projects
-- **[Genuine Eye](#)**: Real & fake image classifier using CNN with a dataset of 120,000 images.
-- **[Bus Seat Booking Web Application](#)**: Laravel-based seat booking system with user and admin functionalities.
-- **[Lyralei ヅ Discord Bot](#)**: A Python bot for fun server management and random selections deployed with 24/7 uptime.
+### Profile Summary
+Enthusiastic B.Tech Data Science student with a strong foundation in **machine learning**, **data analysis**, and **software development**. Experienced in optimizing neural networks and creating web applications. Passionate about applying cutting-edge AI techniques to solve real-world problems. Seeking opportunities to expand and apply technical skills in professional settings.
 
 ### Skills
 - **Programming Languages**: Python, SQL
@@ -24,6 +16,11 @@
 - **Web Development**: HTML, CSS, Tailwind, Bootstrap, Flask, PHP, Laravel
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, TensorFlow, Scikit-Learn, Pandas, Seaborn, OpenCV
+
+### Projects
+- **[Genuine Eye](#)**: A real vs. fake image classifier using CNN with a dataset of 120,000 images.
+- **[Bus Seat Booking Web Application](#)**: Laravel-based seat booking system with user authentication and admin functionalities.
+- **[Lyralei ヅ Discord Bot](#)**: A Python bot for fun server management and random selections, deployed with 24/7 uptime.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
