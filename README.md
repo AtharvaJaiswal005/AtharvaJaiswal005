@@ -1,5 +1,5 @@
 [![Banner](https://github.com/user-attachments/assets/73658109-e7e9-4a59-8f8e-446a44aa68d0)](https://github.com/atharvajaiswal005)
-<h1 align="center">Hi 👋, I'm Atharva Jaiswal</h1>
+<h1 align="center">Hi, I'm Atharva Jaiswal</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast</h3>
 
 <p align="left"> 
