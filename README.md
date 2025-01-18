@@ -96,4 +96,3 @@ Enthusiastic B.Tech Data Science student with a strong foundation in **machine l
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvajaiswal005&show_icons=true&locale=en&theme=tokyonight" alt="atharvajaiswal005" /></p>
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvajaiswal005&&theme=tokyonight" alt="atharvajaiswal005"  /></p>
- 
